@@ -1,0 +1,6 @@
+age= input("how many years are you?")
+age=int(age)
+print(f"you are {age * 365} days old")
+print(f"you are {age * 365*24} hours old")
+print(f"you are {age * 365*24*60} minutes old")
+print(f"you are {age * 365*24*60*60} second old")
